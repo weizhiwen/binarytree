@@ -1,0 +1,7 @@
+﻿  二叉树的基本操作.cpp
+f:\c语言\数据结构\binarytree\二叉树\二叉树的基本操作\二叉树的基本操作.cpp(36): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\c语言\数据结构\binarytree\二叉树\二叉树的基本操作\二叉树的基本操作.cpp(36): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\c语言\数据结构\binarytree\二叉树\二叉树的基本操作\二叉树的基本操作.cpp(36): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\c语言\数据结构\binarytree\二叉树\二叉树的基本操作\二叉树的基本操作.cpp(36): note: 此参数用作缓冲区大小
+  二叉树的基本操作.vcxproj -> F:\C语言\数据结构\binarytree\二叉树\Debug\二叉树的基本操作.exe
+  二叉树的基本操作.vcxproj -> F:\C语言\数据结构\binarytree\二叉树\Debug\二叉树的基本操作.pdb (Full PDB)
